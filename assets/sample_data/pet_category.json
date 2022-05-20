@@ -1,0 +1,273 @@
+{
+  "dogs": [
+    {
+      "id": "dog1",
+      "petImage": "assets/dog_category/aspin.jpg",
+      "petName": "Aspin",
+      "lifeSpan": "15 - 20 years",
+      "petPrice": 700.00,
+      "source": "https://pixabay.com/photos/salmson-dish-food-meal-fish-518032/",
+      "temperament": "Aspins are known to be extremely kind and lovable to all people. They are native dogs to the Philippines and are often seen roaming the streets although now they are becoming more of a house dog. They are calm, happy, and get along nicely with children."
+    },
+    {
+      "id": "dog2",
+      "petImage": "assets/dog_category/labrador.jpg",
+      "petName": "Labrador",
+      "lifeSpan": "10 - 12 years",
+      "petPrice": 1000.00,
+      "source": "https://www.dailypaws.com/dogs-puppies/dog-breeds/labrador-retriever",
+      "temperament": "Labradors are playful and intelligent, with a warm, friendly temperament that makes them ideal for first-time owners."
+    },
+    {
+      "id": "dog3",
+      "petImage": "assets/dog_category/germanShepherd.jpg",
+      "petName": "German Shepherd",
+      "lifeSpan": "9 - 13 years",
+      "petPrice": 1700.00,
+      "source": "https://dogs.lovetoknow.com/wiki/German_Shepherd",
+      "temperament": "German Shepherds are best for active households and experienced pet parents who are ready to train this highly-active pup."
+    },
+    {
+      "id": "dog4",
+      "petImage": "assets/dog_category/poodle.jpg",
+      "petName": "Poodle",
+      "lifeSpan": "12 - 15 years",
+      "petPrice": 1600.00,
+      "source": "https://a-z-animals.com/animals/poodle/",
+      "temperament": "Poodles are notorious for their intelligence and ease of training. They are lively, active, fun-loving and family dogs with a sense of the ridiculous."
+    },
+    {
+      "id": "dog5",
+      "petImage": "assets/dog_category/goldenRetriever.jpg",
+      "petName": "Golden Retriever",
+      "lifeSpan": "10 - 12 years",
+      "petPrice": 2000.00,
+      "source": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_Carlos_(10581910556).jpg",
+      "temperament": "The Golden Retriever is friendly, tolerant attitude makes them great family pets, and their intelligence makes them highly capable working dogs."
+    },
+    {
+      "id": "dog6",
+      "petImage": "assets/dog_category/bulldog.jpg",
+      "petName": "Bulldog",
+      "lifeSpan": "8 - 10 years",
+      "petPrice": 4500.00,
+      "source": "https://www.akc.org/dog-breeds/bulldog/",
+      "temperament": "Typically low-endurance dogs, English bulldogs have a sweet disposition, are predictable, dependable and excellent with children and need only moderate exercise."
+    }
+  ],
+  "cats": [
+    {
+      "id": "cat1",
+      "petImage": "assets/cat_category/persian.jpeg",
+      "petName": "Persian",
+      "lifeSpan": "12 - 18 years",
+      "petPrice": 2500.00,
+      "source": "https://medium.com/@4kpets/persian-cat-the-perfect-domestic-cat-suitable-for-children-seniors-and-cuddling-10f11306b33f",
+      "temperament": "Persian Cats are known for their gentle, quiet, docile nature. They are very sweet cats, but can be discriminating in their affection, only giving their attention to people they trust."
+    },
+    {
+      "id": "cat2",
+      "petImage": "assets/cat_category/maineCoon.jpg",
+      "petName": "Maine Coon",
+      "lifeSpan": "13 - 14 years",
+      "petPrice": 1800.00,
+      "source": "https://www.petsgal.com/black-maine-coon-cats/",
+      "temperament": "Maine Coon cats are gentle natured and friendly, which makes them great companions for cat owners. They're often playful and curious and remain kitten-like throughout their lives, even as older cats, which makes them an endless source of entertainment."
+    },
+    {
+      "id": "cat3",
+      "petImage": "assets/cat_category/britishShortHair.jpg",
+      "petName": "British Shorthair",
+      "lifeSpan": "12 - 17 years",
+      "petPrice": 2000.00,
+      "source": "https://www.thesprucepets.com/british-shorthair-5219450",
+      "temperament": " A playful, affectionate cat, the British Shorthair is fiercely loyal and a good companion for single people. Daily brushing of the British Shorthair is important, especially during seasonal changes when the coat is thickening or thinning."
+    },
+    {
+      "id": "cat4",
+      "petImage": "assets/cat_category/bengal.jpg",
+      "petName": "Bengal",
+      "lifeSpan": "12 - 16 years",
+      "petPrice": 2400.00,
+      "source": "https://www.dailypaws.com/cats-kittens/cat-breeds/bengal",
+      "temperament": "The Bengal attaches closely to her people and is a loyal friend. As a large, athletic cat, the Bengal needs to run, jump, and romp to be contented. She is a curious and alert cat."
+    },
+    {
+      "id": "cat5",
+      "petImage": "assets/cat_category/siamese.jpg",
+      "petName": "Siamese",
+      "lifeSpan": "12 - 15 years",
+      "petPrice": 800.00,
+      "source": "https://www.thesprucepets.com/facts-about-siamese-cats-4173491",
+      "temperament": "The Siamese cat's personality is friendly, affectionate, outgoing, and social. This beautiful breed is also one of the most intelligent around. The Siamese is loving and trusting with humans, and he thrives with lots of positive human interaction."
+    },
+    {
+      "id": "cat6",
+      "petImage": "assets/cat_category/sphinx.jpg",
+      "petName": "Sphinx",
+      "lifeSpan": "8 - 14 years",
+      "petPrice": 4000.00,
+      "source": "https://www.thesprucepets.com/hairless-cat-breeds-to-know-4768836",
+      "temperament": "Notable for its hairless coat, the sphynx is also a friendly, loving, and energetic show-off who craves human attention."
+    }
+  ],
+  "birds": [
+    {
+      "id": "bird1",
+      "petImage": "assets/bird_category/cockatoos.jpg",
+      "petName": "Cockatoos",
+      "lifeSpan": "10 - 14 years",
+      "petPrice": 3000.00,
+      "source": "https://ebird.org/species/palcoc1",
+      "temperament": "Cockatoos are lively, affectionate birds. They are quite cuddly and bond very closely with their owners."
+    },
+    {
+      "id": "bird2",
+      "petImage": "assets/bird_category/greyParrot.jpg",
+      "petName": "Grey Parrot",
+      "lifeSpan": "23 years",
+      "petPrice": 2300.00,
+      "source": "https://en.wikipedia.org/wiki/Grey_parrot",
+      "temperament": "African greys are the most intelligent of the parrot species. Many grow to be extremely sweet and affectionate toward their owners, and the species is known for being quite sociable."
+    },
+    {
+      "id": "bird3",
+      "petImage": "assets/bird_category/budgerigar.jpg",
+      "petName": "Budgerigar",
+      "lifeSpan": "5 - 8 years",
+      "petPrice": 24.00,
+      "source": "https://ebird.org/species/budger",
+      "temperament": "Budgies are gentle and docile birds. They are also very easy to tame, especially if acquired at a young age."
+    },
+    {
+      "id": "bird4",
+      "petImage": "assets/bird_category/loveBirds.jpg",
+      "petName": "Love Birds",
+      "lifeSpan": "15 - 25 years",
+      "petPrice": 1200.00,
+      "source": "https://www.thesprucepets.com/lovebird-breeding-basics-390485",
+      "temperament": "Lovebirds can be described as active, curious, feisty, and playful, so they definitely pack a lot of personality into a small package."
+    },
+    {
+      "id": "bird5",
+      "petImage": "assets/bird_category/macaw.jpg",
+      "petName": "Macaw (Ara)",
+      "lifeSpan": "50 years",
+      "petPrice": 1400.00,
+      "source": "https://www.worldatlas.com/articles/bright-and-beautiful-the-types-of-macaws-living-in-the-world-today.html",
+      "temperament": "Macaws are playful and active, and they have exuberant personalities that match their size."
+    },
+    {
+      "id": "bird6",
+      "petImage": "assets/bird_category/amazon.jpg",
+      "petName": "Amazon",
+      "lifeSpan": "40 - 70 years",
+      "petPrice": 2100.00,
+      "source": "https://www.thesprucepets.com/green-cheeked-amazon-mexican-redhead-parrots-390254",
+      "temperament": "Amazons are brilliant and playful birds that love being the center of attention. They need lots of affection and time with their owners."
+    }
+  ],
+  "hamsters": [
+    {
+      "id": "ham1",
+      "petImage": "assets/hamster_category/syrian.jpg",
+      "petName": "Syrian",
+      "lifeSpan": "2 - 3 years",
+      "petPrice": 15.00,
+      "source": "https://www.genengnews.com/news/syrian-hamster-unravels-inflammatory-insights-in-covid-19/",
+      "temperament": "Easy to tame, comfortable being handled, curious, solitary, territorial, quirky."
+    },
+    {
+      "id": "ham2",
+      "petImage": "assets/hamster_category/campbell.jpg",
+      "petName": "Campbell",
+      "lifeSpan": "2 years",
+      "petPrice": 20.00,
+      "source": "https://www.thesprucepets.com/dwarf-campbells-russian-hamsters-1238945",
+      "temperament": "Most are friendly and don't mind being handled, especially if you start gently handling them from a young age."
+    },
+    {
+      "id": "ham3",
+      "petImage": "assets/hamster_category/roborovski.jpg",
+      "petName": "Roborovski",
+      "lifeSpan": "2 - 3 years",
+      "petPrice": 12.00,
+      "source": "https://pethelpful.com/rodents/A-Complete-Guide-to-Roborovski-Hamsters",
+      "temperament": "These hamsters are fairly low-maintenance pets, and they can be quite entertaining to watch."
+    },
+    {
+      "id": "ham4",
+      "petImage": "assets/hamster_category/winterWhite.jpg",
+      "petName": "Winter White",
+      "lifeSpan": "12 months",
+      "petPrice": 22.00,
+      "source": "http://www.thepetsdialogue.com/2017/02/winter-white-vs-campbell-dwarf-hamster.html",
+      "temperament": "As pets, they usually are docile and take well to handling, though they can be difficult to hold due to their small size and quickness."
+    },
+    {
+      "id": "ham5",
+      "petImage": "assets/hamster_category/chinese.jpg",
+      "petName": "Chinese",
+      "lifeSpan": "2 - 3 years",
+      "petPrice": 43.00,
+      "source": "https://www.thesprucepets.com/chinese-hamsters-1238946",
+      "temperament": "As pets, these hamsters are generally good-natured and comfortable being held if you've consistently handled them from a young age."
+    }
+  ],
+  "rabbits": [
+    {
+      "id": "rabbit1",
+      "petImage": "assets/rabbit_category/hollandLop.jpg",
+      "petName": "Holland Lop",
+      "lifeSpan": "10 years",
+      "petPrice": 240.00,
+      "source": "https://guideyourpet.com/holland-lop/",
+      "temperament": "These gentle, friendly and sociable rabbits love their owners and just want to be around them. They love attention and will love to be petted and spend time with you."
+    },
+    {
+      "id": "rabbit2",
+      "petImage": "assets/rabbit_category/netherlandDwarf.jpg",
+      "petName": "Netherland Dwarf",
+      "lifeSpan": "8 - 15 years",
+      "petPrice": 68.00,
+      "source": "https://small-pets.lovetoknow.com/care-netherland-dwarf-rabbits",
+      "temperament": "Netherland Dwarf rabbits have a reputation for having poor temperaments—of being skittish, grumpy, and wild."
+    },
+    {
+      "id": "rabbit3",
+      "petImage": "assets/rabbit_category/european.jpg",
+      "petName": "European",
+      "lifeSpan": "9 years",
+      "petPrice": 30.00,
+      "source": "https://www.nationalgeographic.org/article/how-european-rabbits-took-over-australia/",
+      "temperament": "European Rabbits are wary of humans and easily scared. These rabbits are not meant to be pets, being raised in captivity will significantly shorten their lifespan."
+    },
+    {
+      "id": "rabbit4",
+      "petImage": "assets/rabbit_category/miniLop.jpg",
+      "petName": "Mini Lop",
+      "lifeSpan": "7 - 14 years",
+      "petPrice": 75.00,
+      "source": "https://www.pinterest.com/pin/385550418103932308/",
+      "temperament": "Mini Lop is a friendly and loving pet, it won't hesitate to show its “angrier” side as well"
+    },
+    {
+      "id": "rabbit5",
+      "petImage": "assets/rabbit_category/flemishGiant.jpg",
+      "petName": "Flemish Giant",
+      "lifeSpan": "8 - 10 years",
+      "petPrice": 85.00,
+      "source": "https://small-pets.lovetoknow.com/rabbits/flemish-giant-rabbit",
+      "temperament": "The Flemish Giant is generally a docile breed, and these giant pet rabbits make good companions and loving family pets."
+    },
+    {
+      "id": "rabbit6",
+      "petImage": "assets/rabbit_category/rex.jpg",
+      "petName": "Rex",
+      "lifeSpan": "6 - 8 years",
+      "petPrice": 120.00,
+      "source": "https://en.wikipedia.org/wiki/Rex_rabbit",
+      "temperament": "This bunny is calm, playful, and incredibly maternal. They enjoy being around other rabbits and in fact, tends to mother them quite incessantly."
+    }
+  ]
+}

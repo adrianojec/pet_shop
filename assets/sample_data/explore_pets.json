@@ -1,0 +1,49 @@
+{
+  "pets": [
+    {
+      "id": "1",
+      "cardType": "card1",
+      "title": "Golden Retriever",
+      "subtitle": "Man's Bestfriend",
+      "backgroundImage": "assets/popular_pets/goldenRetriever.jpg",
+      "backgroundImageSource": "https://www.akc.org/expert-advice/dog-breeds/10-facts-about-golden-retrievers/",
+      "review": "This is one of the finest family dogs in the world."
+    },
+    {
+      "id": "2",
+      "cardType": "card2",
+      "title": "Siamese",
+      "subtitle": "Partner in Crime",
+      "backgroundImage": "assets/popular_pets/siamese.jpg",
+      "backgroundImageSource": "https://excitedcats.com/siamese-kittens-for-sale-breeders-in-australia/",
+      "review": "These beautiful cats are very intelligent and need a great deal of stimulation and interaction."
+    },
+    {
+      "id": "3",
+      "cardType": "card1",
+      "title": "Amazon Parrots",
+      "subtitle": "Renowned Talkers",
+      "backgroundImage": "assets/popular_pets/amazonParrot.jpg",
+      "backgroundImageSource": "https://www.psittacology.com/double-yellow-headed-amazon-care/",
+      "review": "Amazon parrots are good family pets that enjoy interacting with their human \"flock\"."
+    },
+    {
+      "id": "4",
+      "cardType": "card2",
+      "title": "Syrian Hamster",
+      "subtitle": "Friendly Companion",
+      "backgroundImage": "assets/popular_pets/syrianHamster.jpg",
+      "backgroundImageSource": "https://www.genengnews.com/news/syrian-hamster-unravels-inflammatory-insights-in-covid-19/",
+      "review": "Syrian hamsters are generally low-maintenance, quiet, and interesting pets."
+    },
+    {
+      "id": "6",
+      "cardType": "card1",
+      "title": "Holland Lop",
+      "subtitle": "Siamese Fighting Fish",
+      "backgroundImage": "assets/popular_pets/hollandLop.jpg",
+      "backgroundImageSource": "https://www.rabbitscout.com/the-holland-lop/",
+      "review": "Unlike some fish species, they are highly interactive and you can truly \"bond\" with them."
+    }
+  ]
+}

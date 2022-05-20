@@ -1,0 +1,67 @@
+{
+  "best sellers": [
+    {
+      "id": "1",
+      "itemName": "Pedigree Adult",
+      "itemPrice": 13.79,
+      "itemImage": "assets/best_seller/pedigreeAdult.jpg",
+      "description": "Grilled Steak & Vegetable"
+    },
+    {
+      "id": "2",
+      "itemName": "Dog Collar",
+      "itemPrice": 11.43,
+      "itemImage": "assets/best_seller/dogCollar.jpg",
+      "description": "Personalized Custom Collar"
+    },
+    {
+      "id": "3",
+      "itemName": "Dangle Hamster",
+      "itemPrice": 4.99,
+      "itemImage": "assets/best_seller/catToy.jpg",
+      "description": "Cat Toy"
+    },
+    {
+      "id": "4",
+      "itemName": "Vitakraft Menu",
+      "itemPrice": 18.4,
+      "itemImage": "assets/best_seller/menu.jpg",
+      "description": "+ Vita Herbs"
+    },
+    {
+      "id": "5",
+      "itemName": "Supreme",
+      "itemPrice": 31.99,
+      "itemImage": "assets/best_seller/supreme.jpg",
+      "description": "Rabbit Mix"
+    },
+    {
+      "id": "6",
+      "itemName": "Hamster Wheel",
+      "itemPrice": 17.5,
+      "itemImage": "assets/best_seller/hamsterToy.jpg",
+      "description": "Hamster Toy"
+    },
+    {
+      "id": "7",
+      "itemName": "Mazuri",
+      "itemPrice": 33.0,
+      "itemImage": "assets/best_seller/mazuri.jpg",
+      "description": "Small bird diet"
+    },
+    {
+      "id": "8",
+      "itemName": "Parrot Playstand",
+      "itemPrice": 11.22,
+      "itemImage": "assets/best_seller/parrotStand.jpg",
+      "description": "Wooden Stand"
+    },
+    {
+      "id": "9",
+      "itemName": "Meow Mix",
+      "itemPrice": 136.68,
+      "itemImage": "assets/best_seller/meowMix.jpg",
+      "description": "Kitten Nibbles"
+    }
+  ]
+}
